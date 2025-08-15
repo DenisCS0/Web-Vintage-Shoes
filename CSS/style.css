@@ -390,5 +390,9 @@ footer {
         width: 90%;
         margin-bottom: 20px;
     }
+
+    header {
+        padding: 0;
+    }
   
 }
